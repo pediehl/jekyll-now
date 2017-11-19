@@ -17,3 +17,7 @@ Da wir für den Würfel Zahlen zwischen 1 und 6 benötigen, addieren wir zum Erg
 wir erhalten jetzt die gewünschten Ergebnisse zwischen 1 und 6.
 
 ![](/images/mini-Screenshot.png)
+
+
+## Code
+![wuerfel.hex](/appendix/code/wuerfel.hex)
