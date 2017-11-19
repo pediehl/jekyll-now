@@ -2,6 +2,8 @@
 layout: post
 title: digitaler Würfel mit dem Calliope Mini
 ---
+![](/images/IMG_20171114_181017_929.jpg)
+
 ## Material:
 
 Calliope Mini
@@ -20,4 +22,4 @@ wir erhalten jetzt die gewünschten Ergebnisse zwischen 1 und 6.
 
 
 ## Code
-![wuerfel.hex](appendix/code/wuerfel.hex)
+![wuerfel.hex](/appendix/code/wuerfel.hex)
