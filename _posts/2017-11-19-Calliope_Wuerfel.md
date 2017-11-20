@@ -22,4 +22,4 @@ wir erhalten jetzt die gewünschten Ergebnisse zwischen 1 und 6.
 
 
 ## Code
-![wuerfel.hex](/appendix/code/wuerfel.hex)
+[wuerfel.hex](/appendix/code/wuerfel.hex)
