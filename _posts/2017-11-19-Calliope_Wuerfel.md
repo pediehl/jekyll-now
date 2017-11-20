@@ -1,6 +1,6 @@
 ---
 layout: post
-title: digitaler Würfel mit dem Calliope Mini
+title: einfacher digitaler Würfel mit dem Calliope Mini
 ---
 ![](/images/IMG_20171114_181017_929.jpg)
 
