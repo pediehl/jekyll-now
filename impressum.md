@@ -12,9 +12,11 @@ Carl-Theodor-Str. 8
 67227 Frankenthal
 
 ## Kontakt
-Telefon: 06233-4960028
-
 E-Mail: peter.diehl@posteo.de
+
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+Peter Diehl (s.o.)
+
 
 ## Haftung für Inhalte
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den
