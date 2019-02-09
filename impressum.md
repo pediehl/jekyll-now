@@ -6,10 +6,14 @@ permalink: /impressum/
 
 ## Angaben gemäß § 5 TMG
 Peter Diehl
+
 Carl-Theodor-Str. 8
+
 67227 Frankenthal
+
 ## Kontakt
 Telefon: 06233-4960028
+
 E-Mail: peter.diehl@posteo.de
 
 ## Haftung für Inhalte
