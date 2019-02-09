@@ -11,7 +11,7 @@ Calliope Mini
 
 ## Editor:
 
-[http://pxt.calliope.cc/](http://pxt.calliope.cc/)
+[http://makecode.calliope.cc/](http://makecode.calliope.cc/)
 
 ## Funktion:
 
