@@ -1,6 +1,6 @@
 ---
 layout: post
-title: erweiterter digitaler Würfel mit dem microbit
+title: Digitaler Würfel mit dem microbit
 ---
 
 ![](/images/IMG_20191224_163152_105.jpg)
