@@ -21,4 +21,4 @@ Das Ergebnis wird als "Augen" auf einem Würfel angezeigt.
 ![](/images/microbit-Screenshot_wuzerfel.png)
 
 ## Code
-[microbit-wuerfel_schuettel.hex](/appendix/code/mircobit/microbit-wuerfel_schuettel.hex)
+[microbit-wuerfel_schuettel.hex](/appendix/code/microbit/microbit-wuerfel_schuettel.hex)
