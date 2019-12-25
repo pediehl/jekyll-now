@@ -9,10 +9,10 @@ title: Ampel mit dem microbit
 
 + mircobit
 + Steckbrett
-+ 2 Krokodilklemmenkabel
-+ 2 Steckbrückenkabel
-+ LED
-+ Widerstand 220 Ohm
++ 4 Krokodilklemmenkabel
++ 4 Steckbrückenkabel
++ 3 LEDs
++ 3 Widerstände je 220 Ohm
 
 ## Editor:
 
@@ -20,7 +20,7 @@ title: Ampel mit dem microbit
 
 ## Funktion:
 
-Mit dem Taster A wird die LED eingeschaltet. Mit dem Taster B wird die LED wieder ausgeschaltet.
+Eine Ampelschaltung über die LEDs wird umgesetzt.
 
 ## Schaltplan
 
