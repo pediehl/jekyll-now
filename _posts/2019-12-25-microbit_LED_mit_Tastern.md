@@ -7,7 +7,7 @@ title: LED mit Tastern ein- und ausschalten mit dem micro:bit
 
 ## Material:
 
-+ mircobit
++ mirco:bit
 + Steckbrett
 + 2 Krokodilklemmenkabel
 + 2 Steckbrückenkabel

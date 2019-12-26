@@ -7,7 +7,7 @@ title: Ampel mit dem micro:bit
 
 ## Material:
 
-+ mircobit
++ mirco:bit
 + Steckbrett
 + 4 Krokodilklemmenkabel
 + 4 Steckbrückenkabel

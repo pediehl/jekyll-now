@@ -7,7 +7,7 @@ title: Digitaler Würfel mit dem micro:bit
 
 ## Material:
 
-mircobit
+mirco:bit
 
 ## Editor:
 
@@ -15,7 +15,7 @@ mircobit
 
 ## Funktion:
 
-Durch Schütteln des mircobit wird in ein Zufallszahl (zwischen 1 und 6) generiert.
+Durch Schütteln des mirco:bit wird in ein Zufallszahl (zwischen 1 und 6) generiert.
 Das Ergebnis wird als "Augen" auf einem Würfel angezeigt.
 
 ![](/images/microbit-Screenshot_wuzerfel.png)
