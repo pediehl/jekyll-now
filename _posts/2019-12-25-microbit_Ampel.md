@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ampel mit dem microbit
+title: Ampel mit dem micro:bit
 ---
 
 ![](/images/20191225_123915.jpg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LED mit Tastern ein- und ausschalten mit dem microbit
+title: LED mit Tastern ein- und ausschalten mit dem micro:bit
 ---
 
 ![](/images/20191225_095251.jpg)

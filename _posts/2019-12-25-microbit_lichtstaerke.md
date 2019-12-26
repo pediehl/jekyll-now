@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lichtstärke mit dem microbit
+title: Lichtstärke mit dem micro:bit
 ---
 
 ![](/images/20191225_181253.jpg)
