@@ -9,8 +9,8 @@ title: Morsen mit zwei micro:bit
 + 2 micro:bit
 
 ## Editor:
+[https://makecode.microbit.org/](https://makecode.microbit.org/)
 
-https://makecode.microbit.org/](https://makecode.microbit.org/)
 
 ## Funktion:
 Mit dieser Anleitung lernst du, wie sich mehrere micro:bit unterhalten können. Betrachten wollen wir in diesem Experiment die Möglichkeit des Morsens.
